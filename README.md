@@ -51,8 +51,7 @@ These features are measurements extracted from banknote images using a Wavelet T
 
 The target column is called `class`:
 
-- `0` - Genuine banknote
-- `1` - Forged banknote
+0 = Genuine and 1 = Forged
 
 ## 6. Tools and Technologies
 
@@ -92,7 +91,7 @@ This project studies the limitations and risks of the machine learning model.
 
 It also explains the possible problems caused by incorrect predictions, such as classifying a forged banknote as genuine or a genuine banknote as forged.
 
-This model is developed for educational purposes only. It should not be used as a real banknote verification system.
+This model is developed for educational purposes only. Do not use it as a real banknote verification system.
 
 ## 10. Project Structure
 
@@ -110,8 +109,8 @@ fake-banknote-detection-model-card/
 
 ## 11. Project Status
 
-The project is currently in development.
+Model development and evaluation are in progress.
 
 ## 12. Author
 
-Created as a Data Science examination project.
+Created as a data science exam project.
