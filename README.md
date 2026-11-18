@@ -66,14 +66,12 @@ Fake-Banknote-Detection-Model-Card/
 │   └── banknote_data.txt               # copy of the UCI data
 ├── images/                             # graphs saved by the notebook
 ├── reports/
-│   ├── model_card.md
-│   ├── model_results.csv
-│   ├── cross_validation_results.csv
-│   ├── feature_importance.csv
-│   └── misclassified_test_records.csv
-└── docs/
-    └── viva_guide.md                   # study notes and viva Q&A
-```
+    ├── model_card.md
+    ├── model_results.csv
+    ├── cross_validation_results.csv
+    ├── feature_importance.csv
+    └── misclassified_test_records.csv
+
 
 ## 11. Installation
 ```bash
