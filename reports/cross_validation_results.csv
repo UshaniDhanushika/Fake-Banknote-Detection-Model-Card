@@ -1,0 +1,4 @@
+Model,CV Accuracy (mean),CV Accuracy (std),CV Precision (mean),CV Recall (mean),CV F1 (mean)
+Dummy Classifier,0.5473,0.0012,0.0,0.0,0.0
+Logistic Regression,0.9944,0.0019,0.9899,0.998,0.9939
+Decision Tree (depth 4),0.9545,0.0115,0.9366,0.9652,0.9504

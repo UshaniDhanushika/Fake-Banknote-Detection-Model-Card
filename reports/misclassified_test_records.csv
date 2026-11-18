@@ -1,0 +1,11 @@
+model,,variance,skewness,curtosis,entropy,true_class,predicted_class,forged_probability,error_type
+Logistic Regression,243,0.3798,0.7098,0.7572,-0.4444,0,1,0.688,False Positive (genuine called forged)
+Logistic Regression,21,0.3292,-4.4552,4.5718,-0.9888,0,1,0.76,False Positive (genuine called forged)
+Logistic Regression,106,-1.8584,7.886,-1.6643,-1.8384,0,1,0.716,False Positive (genuine called forged)
+Logistic Regression,4,0.32924,-4.4552,4.5718,-0.9888,0,1,0.76,False Positive (genuine called forged)
+Decision Tree (depth 4),243,0.3798,0.7098,0.7572,-0.4444,0,1,,False Positive (genuine called forged)
+Decision Tree (depth 4),34,-1.6162,0.80908,8.1628,0.60817,0,1,,False Positive (genuine called forged)
+Decision Tree (depth 4),85,-1.1313,1.9037,7.5339,1.022,0,1,,False Positive (genuine called forged)
+Decision Tree (depth 4),170,-1.6952,1.0657,8.8294,0.94955,0,1,,False Positive (genuine called forged)
+Decision Tree (depth 4),629,-0.38388,-1.0471,8.0514,0.49567,0,1,,False Positive (genuine called forged)
+Decision Tree (depth 4),461,-1.7781,0.8546,7.1303,0.027572,0,1,,False Positive (genuine called forged)

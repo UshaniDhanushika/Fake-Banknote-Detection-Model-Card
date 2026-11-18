@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score
+Dummy Classifier,0.5481,0.0,0.0,0.0
+Logistic Regression,0.9852,0.9683,1.0,0.9839
+Decision Tree (depth 4),0.9778,0.9531,1.0,0.976

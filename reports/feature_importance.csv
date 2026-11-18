@@ -1,0 +1,5 @@
+,LogReg coefficient,Tree importance,Permutation importance (accuracy drop)
+variance,-4.6347,0.7031,0.3998
+skewness,-4.7386,0.1547,0.3025
+curtosis,-4.3971,0.1422,0.1695
+entropy,0.2355,0.0,0.0
