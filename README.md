@@ -102,4 +102,4 @@ This is an **educational model only**. It is **not a certified banknote authenti
 3. Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python*. JMLR 12, 2825–2830.
 
 ## 16. Author
-Created as a Data Science examination project.
+Ushani Dhanushika
